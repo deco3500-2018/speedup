@@ -6,7 +6,7 @@ https://github.com/deco3500-2018/speedup/wiki/1.-Concept-Proposal
 https://github.com/deco3500-2018/speedup/wiki/2.-Design-process-overview
 
 # Team Member
-<br/>Jinyu Wang
+Jinyu Wang
 <br/>Wei-Ling Wang
 <br/>Weijun Zhao
 <br/>Changwen Huang
